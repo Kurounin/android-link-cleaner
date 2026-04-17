@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LinkCleaner</string>
+    <string name="hint_paste_link">Paste a link…</string>
+    <string name="btn_clean">Clean link</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_copy_original">Copy original anyway</string>
+    <string name="btn_done">Done</string>
+    <string name="cleaning">Cleaning link…</string>
+    <string name="toast_copied">Clean link copied.</string>
+    <string name="label_original">Original</string>
+    <string name="label_clean">Clean</string>
+    <string name="label_platform">Platform</string>
+    <string name="label_removed">Removed</string>
+</resources>
