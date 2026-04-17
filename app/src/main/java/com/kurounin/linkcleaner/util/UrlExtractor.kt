@@ -15,7 +15,7 @@ object UrlExtractor {
         if (trimmed.isEmpty()) return null
 
         val candidate = if (FULLY_ENCODED.matches(trimmed)) {
-            URLDecoder.decode(trimmed, StandardCharsets.UTF_8)
+            URLDecoder.decode(trimmed, StandardCharsets.UTF_8.name())
         } else {
             trimmed
         }

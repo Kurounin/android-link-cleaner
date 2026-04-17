@@ -14,4 +14,8 @@
     <string name="label_clean">Clean</string>
     <string name="label_platform">Platform</string>
     <string name="label_removed">Removed</string>
+    <string name="cd_clear">Clear input</string>
+    <string name="cd_paste">Paste from clipboard</string>
+    <string name="empty_state_text">Paste a link to remove tracking parameters</string>
+    <string name="label_unchanged">Unchanged</string>
 </resources>
